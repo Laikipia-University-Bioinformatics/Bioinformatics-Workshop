@@ -20,8 +20,12 @@ Install:
 - How can I see what files and directories I have?
 - How can I specify the location of a file or directory on my computer?
 
+
 3. Working With Files and Directories	How can I create, copy, and delete files and directories?
 How can I edit files?
+
+### Reading Materials
+- [Carpentries resources]( https://swcarpentry.github.io/shell-novice/)
 
 
 # Day Three
