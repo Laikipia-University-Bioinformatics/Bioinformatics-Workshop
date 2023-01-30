@@ -31,3 +31,18 @@ How can I edit files?
 # Day Three
 
 **Introduction to Git**
+
+# Day Four
+
+**Introduction To R**
+
+# Day Five
+
+**Introduction to Bioinformatics**
+
+
+Online learning
+Coursera: 
+- [Genomic Data Science](https://www.coursera.org/specializations/genomic-data-science?#courses)
+- [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics?#courses)
+
